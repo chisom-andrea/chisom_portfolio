@@ -1,0 +1,11 @@
+.enterTodo{
+    width: 500px;
+    border: none;
+    border-bottom: 1px solid rgb(26, 229, 243);
+    padding-top: 40px;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+}

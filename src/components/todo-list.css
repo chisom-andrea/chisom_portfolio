@@ -1,0 +1,9 @@
+ul li{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.list{
+    width: 500px;
+}
